@@ -109,14 +109,21 @@ I recommend checking the official website before your visit."
 - OpenRouter API key
 - SerpAPI key (optional, for web search)
 
+### Security Note
+⚠️ **Important**: Never commit your `.env` file to version control. The `.env.example` file is provided as a template. Your actual API keys should remain private.
+
 ### Installation
 1. Clone the repository
 2. Install dependencies: `pip install agno python-dotenv requests`
-3. Create a `.env` file with your API keys:
-   ```
-   OPENROUTER_API_KEY=your_openrouter_key
-   SERPAPI_API_KEY=your_serpapi_key
-   ```
+3. Set up environment variables:
+   - Copy `.env.example` to `.env`: `cp .env.example .env`
+   - Edit `.env` and add your API keys:
+     ```
+     OPENROUTER_API_KEY=your_openrouter_key
+     SERPAPI_API_KEY=your_serpapi_key
+     ```
+   - Get your OpenRouter API key from: https://openrouter.ai/keys
+   - Get your SerpAPI key from: https://serpapi.com/ (optional, for web search)
 4. Ensure `The Ultimate Bangalore Guide.pdf` is in the project directory
 
 ### Running the Agent
