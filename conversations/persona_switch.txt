@@ -1,0 +1,39 @@
+# Persona Switch Session - Dynamic Detection and Adaptation
+
+Hello! I am your Bangalore Smart City Concierge. How can I help you today?       
+
+> You: Hi! I'm just curious about Bangalore. What's it like?
+Agent: Hello! Bangalore is a vibrant city with a lot to offer. To give you the best possible description, could you tell me what aspects of the city you're most interested in? For example, are you curious about the culture, the food scene, the nightlife, or something else entirely?  Knowing your interests will help me tailor my response to your specific needs.
+
+
+> You:  Well, I'm thinking of visiting for a weekend trip.
+Agent: I've detected you are a Tourist. I will tailor my responses for you.
+Agent: A weekend in Bangalore sounds fantastic! According to the city guide, Cubbon Park is a must-see, offering beautiful gardens perfect for a relaxing stroll.  For a delicious and Instagrammable meal, try the benne masala dosa at MTR, a local favorite mentioned in the guide.
+
+
+> You: Actually, I might be moving here for work. What should I know about living here?
+Agent: I've detected you are a New Resident. I will tailor my responses for you.
+Agent: According to the city guide, Bangalore is known for its diverse neighborhoods, from the bustling Indiranagar to the quieter Koramangala.  The guide mentions public transport options like the BMTC buses and the metro, but a recent search shows ride-sharing apps are also widely available.  While the guide lists average costs, current information indicates a rise in living expenses, so research updated prices for housing and groceries.  For essential services, the guide recommends registering with local utility providers as soon as you arrive.
+
+
+> You: What about the cost of living for someone moving here?
+Agent: According to the city guide, Bangalore has a relatively lower cost of living compared to other major Indian cities, especially for housing.  A recent search shows that while this is still generally true, rent and property costs have risen significantly, particularly in popular expat neighborhoods like Indiranagar and Koramangala.  The city guide mentions reliable public transport, including buses and the metro; current information indicates these are still good options, supplemented by ride-hailing apps for more convenience.  For essential services like healthcare, the city guide recommends several hospitals; a current search can help find updated contact information and verify their current status.
+
+
+> You:  But I'm also thinking of just visiting first to see if I like it.
+Agent: I've detected you are a Tourist. I will tailor my responses for you.
+Agent: Welcome to Bangalore!  According to the city guide, Cubbon Park is a must-see, and offers beautiful gardens perfect for a stroll.  For a taste of local cuisine, try the masala dosa at MTR, a city favorite.  A recent search indicates that the Bangalore Palace is also a popular Instagram spot worth checking out.      
+
+
+> You: What neighborhoods should I check out during my visit?
+Agent: I've detected you are a New Resident. I will tailor my responses for you.
+Agent: According to the city guide, Indiranagar, Koramangala, and Jayanagar are popular residential areas.  These neighborhoods offer varying amenities and costs of living, so research them before your visit to choose the best fit for your lifestyle.  A recent search shows that these areas remain popular choices, along with newer developments like Whitefield and Electronic City, which are closer to major IT hubs and offer modern housing options.  Consider proximity to your workplace and preferred lifestyle when deciding.
+
+
+> You: Actually, I'm definitely moving here for work. I just got the job offer!
+Agent: Congratulations on the job offer!  According to the city guide, Indiranagar and Koramangala are popular expat neighborhoods with vibrant social scenes.  The city guide also mentions public buses and auto-rickshaws are common transport, but a recent search shows ride-hailing apps like Uber and Ola are now widely available.  For essential services, the city guide recommends using local providers for utilities, but current information indicates online portals streamline this process.  The cost of living, according to the guide, is generally lower than in Western countries, but a recent search would give more up-to-date figures.
+
+
+> You: Thanks! This has been really helpful.
+Agent: You're welcome! I'm glad I could help.  I hope you enjoy your new life in Bangalore.
+Goodbye! 

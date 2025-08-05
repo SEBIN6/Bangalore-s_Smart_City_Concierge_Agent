@@ -1,0 +1,36 @@
+# Resident Session - Complete Interaction
+
+Hello! I am your Bangalore Smart City Concierge. How can I help you today?       
+
+> You:  Hi! I'm moving to Bangalore for work. What neighborhoods should I consider?
+Agent: I've detected you are a New Resident. I will tailor my responses for you.
+Agent: The city guide mentions popular expat neighborhoods like Indiranagar, Koramangala, and Whitefield, known for their amenities and social scene.  A recent search shows these areas still have high demand, and rent prices are correspondingly elevated.  Consider newer, more affordable, but well-connected areas like Electronic City or Yelahanka for a better cost-of-living balance.  The city guide suggests using the Bangalore Metro and bus system; current information indicates ride-sharing apps and auto-rickshaws are popular and efficient transportation options as well.
+
+
+> You: What about the cost of living? How much should I budget for rent?
+Agent: The city guide mentions that Indiranagar, Koramangala, and Jayanagar are popular residential areas for expats.  A recent search shows that average rent in these areas for a 2-bedroom apartment is now around ₹40,000-₹60,000 per month.  The city guide also notes the extensive public transport network of buses and metro; current information indicates that monthly passes are very affordable.        
+
+
+> You: How's the public transportation system? Will I need a car?
+Agent: The city guide mentions the extensive public bus network and the Bangalore Metro, but current information indicates the metro is still expanding.  A recent search shows that ride-sharing apps and auto-rickshaws are also popular options.  While a car isn't strictly necessary, consider buying one for greater convenience, especially if you plan to live outside the city center.
+
+
+> You: What about healthcare and hospitals?
+Agent: According to the city guide, Bangalore has many good hospitals, including Manipal Hospital and Fortis Hospital.  A recent search indicates that these hospitals are still operating and well-regarded.  For routine healthcare needs, the city guide suggests finding a general practitioner in your neighborhood; current information suggests online directories and expat communities are good resources for finding local doctors.  You can also utilize emergency services by calling 108.
+
+
+> You: How do I set up utilities and internet?
+Agent: The city guide mentions contacting Bangalore Electricity Supply Company Limited (BESCOM) for electricity and the Bangalore Water Supply and Sewerage Board (BWSSB) for water.  A recent search shows that you can now also conveniently manage these utilities online through their respective websites.  For internet, the city guide recommends Airtel and BSNL, but current information indicates that Jio and ACT Fibernet are also popular providers with competitive plans.  You can compare their offerings online and choose the best fit for your needs.
+
+
+> You: What about schools if I have children?
+Agent: The city guide mentions several reputable schools such as Bishop Cotton Boys' School and Baldwin Girls' High School.  A recent search shows that Indiranagar and Koramangala are popular neighborhoods for families with good schools and amenities.  For transportation, the city guide recommends the Bangalore Metropolitan Transport Corporation (BMTC) bus system, but current information indicates that ride-sharing apps and metro lines are also convenient options.  Consider these factors when choosing a neighborhood to best suit your family's needs.
+
+
+> You:  Any tips for settling in and making friends?
+Agent: According to the city guide, Indiranagar and Koramangala are popular expat neighborhoods with a vibrant social scene.  The city guide also recommends using the Bangalore Metropolitan Transport Corporation (BMTC) buses or the metro for public transport.  A recent search shows that ride-sharing apps like Uber and Ola are also widely available. For essential services, expats typically rely on online grocery delivery services like BigBasket and local convenience stores.  Consider joining local expat groups on social media or attending community events to meet new people.
+
+
+> You: Thanks for all the detailed information!
+Agent: You're welcome!  I'm glad I could help.  Is there anything else you'd like to know about Bangalore?
+Goodbye! 

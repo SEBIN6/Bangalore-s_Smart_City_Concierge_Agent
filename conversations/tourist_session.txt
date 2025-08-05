@@ -1,0 +1,31 @@
+# Tourist Session - Complete Interaction
+
+Hello! I am your Bangalore Smart City Concierge. How can I help you today?
+
+> You: Hi! I'm visiting Bangalore for a weekend trip. What are the must-see attractions?
+
+Agent: I've detected you are a Tourist. I will tailor my responses for you.
+
+Perfect! Must-see: Bangalore Palace and Lalbagh Garden. Instagram spots: Cubbon Park and Commercial Street. Try MTR for dosas and Koshy's for dinner!
+
+> You: What about food? Where should I eat?
+
+Agent: MTR for legendary dosas and filter coffee! Koshy's for old Bangalore charm. VV Puram Food Street for street food. Church Street cafes for Instagram shots.
+
+> You: How much should I budget for a weekend?
+
+Agent: Budget hotels ₹2500-5000/night, mid-range ₹5000-8000. Food ₹200-500 per meal. Total weekend cost: ₹8000-15000 per person including transport and attractions.
+
+> You: What's the weather like right now?
+
+Agent: Currently 22-28°C (72-82°F) and pleasant! Perfect for outdoor exploration. Bangalore's "Garden City" climate is ideal year-round.
+
+> You: Any tips for getting around?
+
+Agent: Metro for longer distances, Uber/Ola for short trips. Auto-rickshaws available but negotiate fares. Plan by areas to minimize travel time. Perfect weather for walking between nearby spots!
+
+> You: Thanks! This is really helpful.
+
+Agent: You're welcome! Enjoy your Bangalore adventure - you've chosen a great time to visit! Don't forget those Instagram shots from Palace and Lalbagh!
+
+Goodbye! 
